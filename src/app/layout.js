@@ -5,8 +5,8 @@ import Provider from '@/app/components/Provider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Magic Link',
-  description: 'Passwordless Authentication System using Nextjs 13, SendGrid and NextAUTH',
+  title: 'SupportU',
+  description: 'Mental health support on campus.',
 }
 
 export default function RootLayout({ children }) {
