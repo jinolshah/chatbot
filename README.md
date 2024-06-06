@@ -47,4 +47,3 @@
 2. **Configure Environment Variables on Vercel:**
    - In the Vercel dashboard, navigate to your project's settings.
    - Add environment variables similar to the local setup.
-```
